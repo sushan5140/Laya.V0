@@ -1,0 +1,19 @@
+=== Laya Premature-Closure v0 ===
+checkpoint_decisions: 3000
+trajectories: 600
+final_accuracy_pct: 71.5
+order_sensitive_case_repeat_criteria_pct: 40.0
+option_order_flip_pct: 13.0
+repeat_unstable_pct: 0.0
+revision_opportunities: 333
+revision_success_pct: 64.86
+sticky_wrong_pct: 35.14
+
+=== Final accuracy by evidence order ===
+interleaved    60/120 (50.0%)
+original       87/120 (72.5%)
+reversed       90/120 (75.0%)
+strong_first   96/120 (80.0%)
+strong_last    96/120 (80.0%)
+
+Wrote results/laya_summary.csv

@@ -1,0 +1,10 @@
+metric,value
+checkpoint_decisions,3000
+trajectories,600
+final_accuracy_pct,71.5
+order_sensitive_case_repeat_criteria_pct,40.0
+option_order_flip_pct,13.0
+repeat_unstable_pct,0.0
+revision_opportunities,333
+revision_success_pct,64.86
+sticky_wrong_pct,35.14

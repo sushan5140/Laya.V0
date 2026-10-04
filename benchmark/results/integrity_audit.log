@@ -1,0 +1,5 @@
+SHA256 fb818182130a6e55bcf83c0d5eea793104c128d0a9a5ad5b6f63ad6daf9d8b49
+complete unique valid decisions 3000
+failed/skipped 0
+cases 20 orders {'original': 600, 'reversed': 600, 'interleaved': 600, 'strong_first': 600, 'strong_last': 600} criteria {'AB': 1500, 'BA': 1500} repeats {1: 1000, 2: 1000, 3: 1000} steps {1: 600, 2: 600, 3: 600, 4: 600, 5: 600}
+routing {('english', 'convaiinnovations/laya'): 3000}
